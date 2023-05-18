@@ -8,7 +8,7 @@
 
 <!-- ![Githubpng](https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png) -->
 
-🔭 I’m currently working on my web development skills.<br>👯 I’m looking to collaborate on react related projects.<br>🌱 I’m currently learning Full Stack Web Development<br>💬 Ask me about HTML, CSS, JavaScript, React, NodeJS.<br>⚡ Fun fact I love travelling (🌍) and building responsive websites<br>📫 How to reach me on mail - sharvarihupare15@gmail.com<br>💼 My Portfolio - https://sharvarihupare-369.github.io/<br>
+🔭 I’m currently working on my web development skills.<br>👯 I’m looking to collaborate on react related projects.<br>🌱 I’m currently learning Full Stack Web Development<br>💬 Ask me about HTML, CSS, JavaScript, React, NodeJS.<br>⚡ Fun fact I love travelling (🌍) and building responsive websites<br>📫 How to reach me on mail - sharvarihupare15@gmail.com<br>💼 My Portfolio - https://sharvarihupare-369.github.io/<br> LinkedIn-https://www.linkedin.com/in/sharvari-hupare15/
 
 ## 🌐 Socials:
 
