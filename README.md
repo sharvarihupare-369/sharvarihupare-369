@@ -4,7 +4,7 @@
 <!--
 **sharvarihupare-369/sharvarihupare-369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!-- #sharvarihupare-369/README.md -->
+#sharvarihupare-369/README.md
 
 <!-- ![Githubpng](https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png) -->
 
