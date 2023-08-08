@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### I am Sharvari
+### I am Sharvari Hupare
 
 <!--
 **sharvarihupare-369/sharvarihupare-369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
